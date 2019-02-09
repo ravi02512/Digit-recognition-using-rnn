@@ -1,4 +1,7 @@
-# Digit-recognition-using-rnn
-In this repository we have build a nural network model using rnn from mnist data.
-MNist data:
-  Mnist data provided by tensorflow and it contains 55000 classified images of digits so we don't have to classify image seperately.
+##About the data
+We have mnist data which is provided by tensorflow contains 55000 classify images of digits so we don't have to classify images seperately
+
+##About the model
+The model is four layered rnn(1 Input layer , 1 Output layer , 2 Hidden layers)
+In this model we used rnn with relu activation function and Adamoptimizer for minimizing the cost function of nural network.
+
